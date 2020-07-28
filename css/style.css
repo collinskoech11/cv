@@ -4,6 +4,11 @@ body{
 	box-sizing: border-box;
 	color:navy;
 	font-family: sans-serif;
+	background-image: url(../img/motif-fond-ligne-hexagonale-elegante/19742.jpg);
+	background-repeat: repeat;
+}
+h2,h3,h4{
+	color: #000;
 }
 .name{
 	width:100%;
