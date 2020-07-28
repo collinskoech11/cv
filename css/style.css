@@ -6,6 +6,7 @@ body{
 	font-family: sans-serif;
 	background-image: url(../img/motif-fond-ligne-hexagonale-elegante/19742.jpg);
 	background-repeat: repeat;
+	background-size: cover;
 }
 h2,h3,h4{
 	color: #000;
