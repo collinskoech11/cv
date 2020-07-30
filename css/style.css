@@ -61,3 +61,7 @@ h4 li{
 .skills .skill-list li{
 	padding-left: 40px;
 }
+.skills .skill-list p{
+	font-style: italic;
+	padding-left: 50px;
+}
